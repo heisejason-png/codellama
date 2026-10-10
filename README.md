@@ -126,5 +126,5 @@ See the [LICENSE](https://github.com/facebookresearch/llama/blob/main/LICENSE) f
 
 1. [Code Llama Research Paper](https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/)
 2. [Code Llama Blog Post](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
